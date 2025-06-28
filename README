@@ -1,21 +1,50 @@
-Jay - Quant Trader & Researcher
-🔹 WorldQuant Brain Contributor (49+ Alphas, 7+ Good, 2+ Excellent)
-🔹 Swing & Algo Trader | Python & Pine Script | Quantitative Strategies
-🔹 Experienced with Zerodha API & Backtrader for backtesting
-🔹 Building trading bots & stock screeners
-🔹 Focused on momentum-based, sentiment-based, and time-series-based strategies
+# Jay Salvi — Quant Researcher & Trader
 
-🚀 What I'm Working On
-📊 Developing algo trading strategies for Indian & global markets
-📈 Building automated stock screening models using Python
-🛠 Live algo trading with Zerodha API
-⚡ Enhancing performance efficiency and exploring new financial instruments
+📈 Live Sharpe 3.3 with DD under < 10% | SSRN-ranked paper | 55+ live alpha signals
 
-📌 Projects
---> MeanReversion-PineScript
---> Zerodha-Toolkit
---> Regime-Based-Volatility-Model
+Hi, I’m Jay — a quant researcher focused on market microstructure, volatility regimes, and alpha signal generation.  
+I specialize in building statistically robust, executable trading strategies with a strong focus on risk-adjusted performance.
 
+---
 
-📬 Connect with Me
-[LinkedIn](www.linkedin.com/in/jay-salvi-0787aa245) | [TradingView](https://www.tradingview.com/u/jay85salvi/) | [Twitter](https://x.com/salvijay1) 
+## 🧠 What I’ve Done
+
+- 📊 Research Consultant at WorldQuant Brain
+  - Developed 55+ alpha signals across 4+ universes
+  - Achieved 85,000+ cumulative points, 2+ "Excellent" ratings
+- 📄 Sole Author of SSRN Paper on Regime Modeling
+  - Topic: Asymmetric Hidden Markov Modeling of Order Flow Imbalances for Microstructure-Aware Market Regime Detection
+  - Ranked in Top 10 Downloads (Computational Models) in <24h (under 60 days) 
+  - [View Paper →](https://ssrn.com/abstract=5315733)
+- ⚙️ Live Strategy Performance
+  - Built & tested GARCH-HMM regime strategy
+  - Achieved Sharpe 3.3, 11%+ monthly returns(continuous 2 months), <10% drawdown
+  - Fully deployed using Zerodha API
+
+---
+
+## 💼 Featured Projects
+
+| Project | Description |
+|--------|-------------|
+| 🔹 [Regime-Based Volatility Model](https://github.com/Jay846/Regime-Based-Volatility-Model) | Live-traded GARCH-HMM strategy with full backtest + execution |
+| 🔹 [Zerodha Toolkit](https://github.com/Jay846/Zerodha-Toolkit) | Modular Python toolkit for live trading, signal routing, and PnL tracking |
+| 🔹 [Mean Reversion (Pine Script)](https://github.com/Jay846/MeanReversion-PineScript) | Mean-reversion algo with volatility filters on TradingView |
+
+---
+
+## 🔍 Areas of Focus
+
+- Market microstructure & order flow modeling  
+- Factor-based alpha signals (cross-sectional/stat arb)  
+- Volatility segmentation (GARCH, HMM)  
+- Backtesting, signal execution, and portfolio simulation  
+- Python (NumPy, pandas, Backtrader), C++, Zerodha API
+
+---
+
+## 🔗 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/jay-salvi-0787aa245)
+- [TradingView](https://www.tradingview.com/u/jay85salvi/)
+- [Twitter](https://x.com/salvijay1)
