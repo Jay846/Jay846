@@ -18,7 +18,7 @@ I specialize in building statistically robust, executable trading strategies wit
   - [View Paper →](https://ssrn.com/abstract=5315733)
 - ⚙️ Live Strategy Performance
   - Built & tested GARCH-HMM regime strategy
-  - Achieved Sharpe 3.3, 11%+ monthly returns(continuous 2 months), <10% drawdown
+  - Achieved Sharpe 2.2, 11%+ monthly returns(continuous 2 months), <10% drawdown
   - Fully deployed using Zerodha API
 
 ---
