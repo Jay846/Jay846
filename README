@@ -1,13 +1,13 @@
 # Jay Salvi — Independent Researcher & Quant Trader
 
-📈 Live Sharpe 2.2 with DD under < 10% | SSRN-ranked paper | 55+ live alpha signals
+  Live Sharpe 2.2 with DD under < 10% | SSRN-ranked paper | 55+ live alpha signals
 
-Hi, I’m Jay — a independent researcher and quant trader focused on market microstructure, volatility regimes, and alpha signal generation.  
+Hi, I’m JaySalvi — a independent researcher and quant trader focused on market microstructure, volatility regimes, and alpha signal generation.  
 I specialize in building statistically robust, executable trading strategies with a strong focus on risk-adjusted performance.
 
 ---
 
-## 🧠 What I’ve Done
+#  What I’ve Done
 
 - 📊 Research Consultant at WorldQuant Brain
   - Developed 55+ alpha signals across 4+ universes
@@ -23,17 +23,17 @@ I specialize in building statistically robust, executable trading strategies wit
 
 ---
 
-## 💼 Featured Projects
+# Featured Projects
 
 | Project | Description |
-|--------|-------------|
-| 🔹 [Regime-Based Volatility Model](https://github.com/Jay846/Regime-Based-Volatility-Model) | Live-traded GARCH-HMM strategy with full backtest + execution |
-| 🔹 [Zerodha Toolkit](https://github.com/Jay846/Zerodha-Toolkit) | Modular Python toolkit for live trading, signal routing, and PnL tracking |
-| 🔹 [Mean Reversion (Pine Script)](https://github.com/Jay846/MeanReversion-PineScript) | Mean-reversion algo with volatility filters on TradingView |
+
+|   [Regime-Based Volatility Model](https://github.com/Jay846/Regime-Based-Volatility-Model) | Live-traded GARCH-HMM strategy with full backtest + execution |
+|   [Zerodha Toolkit](https://github.com/Jay846/Zerodha-Toolkit) | Modular Python toolkit for live trading, signal routing, and PnL tracking |
+|   [Mean Reversion (Pine Script)](https://github.com/Jay846/MeanReversion-PineScript) | Mean-reversion algo with volatility filters on TradingView |
 
 ---
 
-## 🔍 Areas of Focus
+#  Areas of Focus
 
 - Market microstructure & order flow modeling  
 - Factor-based alpha signals (cross-sectional/stat arb)  
@@ -43,12 +43,13 @@ I specialize in building statistically robust, executable trading strategies wit
 
 ---
 
-## 🔗 Connect With Me
+#  Connect With Me
 
 - [LinkedIn](https://linkedin.com/in/jay-salvi-0787aa245)
 - [TradingView](https://www.tradingview.com/u/jay85salvi/)
 - [Twitter](https://x.com/salvijay1)
+- [Kaggle](https://www.kaggle.com/jaysalvi)
 
 
-## For advance research for strategy selection
+## For advance research of strategy selection & execution
 -[Email](jay85salvi@gmail.com)
