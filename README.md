@@ -1,6 +1,6 @@
 # Jay Salvi — Quantitative Systems Engineer | Building Real-Time Trading Infrastructure
 
-Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution. Deployed strategies yielding Sharpe 2.2+ with <10% DD. 80+ alphas engineered at WorldQuant.
+Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution.
 
 ---
 
