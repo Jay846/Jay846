@@ -1,6 +1,9 @@
 # Jay Salvi — Quantitative Systems Engineer | Building Real-Time Trading Infrastructure
 
-Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution. Deployed strategies yielding Sharpe 2.2+ with <10% DD. 80+ alphas engineered at WorldQuant. SSRN paper on order flow regimes (Top Downloads in Comp Models). Zenodo paper on Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents, From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale
+Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution. Deployed strategies yielding Sharpe 2.2+ with <10% DD. 80+ alphas engineered at WorldQuant. SSRN paper on order flow regimes (Top Downloads in Comp Models). 
+Zenodo paper:
+v1:Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents
+v2: From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale
 
 ---
 
