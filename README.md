@@ -1,15 +1,18 @@
 # Jay Salvi — Quantitative Systems Engineer | Building Real-Time Trading Infrastructure
 
-Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution. Deployed strategies yielding Sharpe 2.2+ with <10% DD. 80+ alphas engineered at WorldQuant. SSRN paper on order flow regimes (Top Downloads in Comp Models). 
-Zenodo paper:
-v1:Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents
-v2: From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale
+Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution. Deployed strategies yielding Sharpe 2.2+ with <10% DD. 80+ alphas engineered at WorldQuant. 
+SSRN paper: Published on: 23rd June, 20205 ; Views: 5,000 ; Downloads: 540 ; Conversion rate > 10%
+Asymmetric Hidden Markov Modeling of Order Flow Imbalances for Microstructure-Aware Market Regime Detection (Link:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5315733)
+...................
+Zenodo paper: 
+v1:Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents (DOI:https://doi.org/10.5281/zenodo.21274028)
+v2: From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale (DOI:https://doi.org/10.5281/zenodo.21413144)
 
 ---
 
 ### 📈 Live Trading & Research Achievements
 *   **Live Trading:** Deployed GARCH-HMM regime strategy on Indian equities (Zerodha API-integrated).
-*   **Research:** Asymmetric HMM for liquidity detection—backtested on 2+ years of NSE/US tick data.
+*   **Research:** Asymmetric HMM for liquidity detection—backtested on 2+ years of NSE/US tick data | v1: Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents | v2: From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale
 *   **Competitions:** 1st in Finanza live trading (21% return/3 days) | Top 2.5% in WorldQuant IQC (78k entrants) | DRW Crypto Challenge Top 24%.
 
 *Open to junior quant / trader roles at prop desks.*  
