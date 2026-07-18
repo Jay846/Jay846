@@ -11,8 +11,13 @@ Quantitative & AI researcher with hands-on experience in systematic trading, mic
 *   📊 **Impact:** 5,000+ Views | 540+ Downloads | >10% Conversion Rate
 *   *Asymmetric Hidden Markov Modeling of Order Flow Imbalances for Microstructure-Aware Market Regime Detection*
 
+#### 📄 [Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents](https://doi.org/10.5281/zenodo.21274028)
+*   **Zenodo Pre-print** | Published: July 9, 2026 (v2)
+*   *Process Tool Collapse check for Reliable LLM Agents at Scale* (DOI: [10.5281/zenodo.21274028](https://doi.org/10.5281/zenodo.21274028))
+*   📊 **Impact:** 100+ Views 
+
 #### 📄 [From Tool Selection to Autonomous Execution](https://doi.org/10.5281/zenodo.21413144)
-*   **Zenodo Pre-print** | Published: July 2026 (v2)
+*   **Zenodo Pre-print** | Published: July 17, 2026 (v2)
 *   *Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale* (DOI: [10.5281/zenodo.21413144](https://doi.org/10.5281/zenodo.21413144))
 *   *(Note: v1 published as "Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents" - DOI: [10.5281/zenodo.21274028](https://doi.org/10.5281/zenodo.21274028))*
 
