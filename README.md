@@ -23,9 +23,8 @@ Quantitative & AI researcher with hands-on experience in systematic trading, mic
 
 ---
 
-### 📈 Live Trading & Research Achievements
+### 📈 Live Trading & Achievements
 *   **Live Trading:** Deployed GARCH-HMM regime strategy on Indian equities (Zerodha API-integrated).
-*   **Research:** Asymmetric HMM for liquidity detection—backtested on 2+ years of NSE/US tick data.
 *   **Competitions:** 1st in Finanza live trading (21% return/3 days) | Top 2.5% in WorldQuant IQC (78k entrants) | DRW Crypto Challenge Top 24%.
 
 *Open to junior quant / trader roles at prop desks.*  
