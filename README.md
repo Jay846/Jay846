@@ -1,18 +1,26 @@
 # Jay Salvi — Quantitative Systems Engineer | Building Real-Time Trading Infrastructure
 
-Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution. Deployed strategies yielding Sharpe 2.2+ with <10% DD. 80+ alphas engineered at WorldQuant. 
-SSRN paper: Published on: 23rd June, 20205 ; Views: 5,000 ; Downloads: 540 ; Conversion rate > 10%
-Asymmetric Hidden Markov Modeling of Order Flow Imbalances for Microstructure-Aware Market Regime Detection (Link:https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5315733)
-...................
-Zenodo paper: 
-v1:Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents (DOI:https://doi.org/10.5281/zenodo.21274028)
-v2: From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale (DOI:https://doi.org/10.5281/zenodo.21413144)
+Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution. Deployed strategies yielding Sharpe 2.2+ with <10% DD. 80+ alphas engineered at WorldQuant.
+
+---
+
+### 🔬 Research Publications & Metrics
+
+#### 📄 [Asymmetric HMM for Market Regime Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5315733)
+*   **SSRN Pre-print** | Published: June 23, 2025
+*   📊 **Impact:** 5,000+ Views | 540+ Downloads | >10% Conversion Rate
+*   *Asymmetric Hidden Markov Modeling of Order Flow Imbalances for Microstructure-Aware Market Regime Detection*
+
+#### 📄 [From Tool Selection to Autonomous Execution](https://doi.org/10.5281/zenodo.21413144)
+*   **Zenodo Pre-print** | Published: July 2026 (v2)
+*   *Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale* (DOI: [10.5281/zenodo.21413144](https://doi.org/10.5281/zenodo.21413144))
+*   *(Note: v1 published as "Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents" - DOI: [10.5281/zenodo.21274028](https://doi.org/10.5281/zenodo.21274028))*
 
 ---
 
 ### 📈 Live Trading & Research Achievements
 *   **Live Trading:** Deployed GARCH-HMM regime strategy on Indian equities (Zerodha API-integrated).
-*   **Research:** Asymmetric HMM for liquidity detection—backtested on 2+ years of NSE/US tick data | v1: Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents | v2: From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale
+*   **Research:** Asymmetric HMM for liquidity detection—backtested on 2+ years of NSE/US tick data.
 *   **Competitions:** 1st in Finanza live trading (21% return/3 days) | Top 2.5% in WorldQuant IQC (78k entrants) | DRW Crypto Challenge Top 24%.
 
 *Open to junior quant / trader roles at prop desks.*  
@@ -31,12 +39,6 @@ v2: From Tool Selection to Autonomous Execution: Process Templates, Sandboxed Co
 | **[Asymmetric-HMM-OrderFlow](https://github.com/Jay846/Asymmetric_HMM_OrderFlow_Whitepaper-model-.pdf)** | Code companion to SSRN paper: Entropy-weighted Order Flow Imbalance (OFI) + asymmetric HMM for liquidity regime detection. | Python, hmmlearn, scikit-learn |
 | **[DRW-Crypto-Kaggle-Submission](https://github.com/Jay846/DRW---Crypto-Market-Prediction-Kaggle-Submission-)** | End-to-end solution for predicting short-term cryptocurrency price changes using tick order book and trade features. | Python, XGBoost, LightGBM |
 | **[Quant-Research-Project](https://github.com/Jay846/Quant-Research-Project---Jay-Salvi)** | Volatility pairs trading on Nifty/BankNifty index options using dynamic Kalman Filter hedging. Sharpe 2.19. | Python, PyKalman, Matplotlib |
-
----
-
-## 🔬 Research & Publications
-*   **The Skill Phase Transition in LLM Agent Routing:** Empirical analysis showing self-attention context decay and execution mitigations for quantitative agent orchestration libraries up to $N=2000$. [Companion Code & Data](https://github.com/Jay846/Blackbox-OS)
-*   **Asymmetric HMM for Order Flow Imbalance:** Applying Hidden Markov Models to entropy-weighted order-book metrics for regime-switching execution. [SSRN Pre-print](https://ssrn.com/)
 
 ---
 
