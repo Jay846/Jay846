@@ -23,11 +23,11 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 
 ---
 
-### 📈 Live Trading & Achievements
-*   **Live Trading:** Deployed GARCH-HMM regime strategy on Indian equities (Zerodha API-integrated).
+### 📈 Contributions & Achievements
+*   **Open Source Contributor:** NVIDIA CUDA C++ Core Libraries (CCCL) .
 *   **Competitions:** 1st in Finanza live trading (21% return/3 days) | Top 2.5% in WorldQuant IQC (78k entrants) | DRW Crypto Challenge Top 24%.
 
-*Open to junior quant / trader roles at prop desks.*  
+
 📧 Contact: [jay85salvi@gmail.com](mailto:jay85salvi@gmail.com)
 
 ---
