@@ -37,7 +37,7 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
 | **[Blackbox-OS](https://github.com/Jay846/Blackbox-OS)** | Graph-based agentic operating system for quant workflows featuring LangGraph-orchestrated sub-graphs, self-healing code sandboxes, and adaptive validation guardrails. | Python, LangGraph, pandas, pytest |
-| **[EMA-Banknifty](https://github.com/Jay846/EMA-Banknifty)** | Vectorized, look-ahead-bias-free Long-Short (4/20) strategy on BankNifty (2015-2025). Sharpe 1.68, Sortino 2.14, Profit Factor 1.29. | Python, NumPy, Matplotlib |
+| **[Neuro-Symbolic-Hypothesis-Engine](https://github.com/Jay846/Neuro-Symbolic-Hypothesis-Engine)** | An autonomous quantitative discovery agent that extracts governing mathematical laws from raw empirical datasets. | Python, Firecrawl, SymPy, SciPy |
 | **[Zerodha-Toolkit](https://github.com/Jay846/Zerodha_Toolkit)** | Modular toolkit for real-time signal generation, PnL dashboards, and automated execution. Reduced latency by 15%. | Python, pandas, Zerodha API |
 | **[Regime-Based-Volatility-Model](https://github.com/Jay846/Regime-Based-Volatility-Model)** | Backtest and partial implementation of a live-traded GARCH-HMM volatility regime-switching strategy. | Python, Backtrader, Zerodha API |
 | **[Asymmetric-HMM-OrderFlow](https://github.com/Jay846/Asymmetric_HMM_OrderFlow_Whitepaper-model-.pdf)** | Code companion to SSRN paper: Entropy-weighted Order Flow Imbalance (OFI) + asymmetric HMM for liquidity regime detection. | Python, hmmlearn, scikit-learn |
@@ -47,9 +47,9 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 ---
 
 ## ⚡ Technical Toolbelt
-*   **Languages:** Python (Expert), C++ (Intermediate), SQL
-*   **Libraries:** NumPy, pandas, Backtrader, VectorBT, scikit-learn, PyTorch, hmmlearn, PyKalman
-*   **APIs & Infrastructure:** Zerodha Kite Connect, LangGraph, Git, Docker, Linux
+*   **Languages:** Python, C++, SQL
+*   **Libraries:** Pandas, Backtrader, VectorBT, scikit-learn, PyTorch, modelling-imports, SciPy 
+*   **APIs & Infrastructure:** Zerodha Kite Connect, LangGraph, Git, Docker
 
 ---
 
@@ -58,4 +58,4 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 *   📈 **[TradingView](https://www.tradingview.com/u/jay85salvi/)**
 *   🐦 **[Twitter](https://x.com/salvijay1)**
 *   📊 **[Kaggle](https://www.kaggle.com/jaysalvi)**
-*   🌐 **[Interactive Portfolio](https://jay-salvi-0qaulu3.gamma.site)**
+*   🌐 **[Interactive Portfolio](https://jay-salvi-0qaulu3.gamma.site) (not-updated)**
