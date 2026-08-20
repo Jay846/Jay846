@@ -23,7 +23,7 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 
 ---
 
-### 📈 Contributions & Achievements
+### 📈 Brag.........
 *   **Open Source Contributor:** NVIDIA CUDA C++ Core Libraries (CCCL) .
 *   **Competitions:** 1st in Finanza live trading (21% return/3 days) | Top 2.5% in WorldQuant IQC (78k entrants) | DRW Crypto Challenge Top 24%.
 
