@@ -1,4 +1,4 @@
-# Jay Salvi — Quantitative Systems Engineer | Building Real-Time Trading Infrastructure
+# Jay Salvi — Quantitative Researcher | AI enthusiast
 
 Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution.
 
