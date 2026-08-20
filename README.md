@@ -1,6 +1,6 @@
 # Jay Salvi — Quantitative Researcher | AI enthusiast
 
-Quantitative & AI researcher with hands-on experience in systematic trading, microstructure modeling, and live execution.
+Quantitative & AI researcher with specializing in low-level execution platforms, automated feature engineering, and blackbox_os architectures.
 
 ---
 
