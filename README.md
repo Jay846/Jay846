@@ -8,7 +8,7 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 
 #### 📄 [Asymmetric HMM for Market Regime Detection](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5315733)
 *   **SSRN Pre-print** | Published: June 23, 2025
-*   📊 **Impact:** 5,000+ Views | 540+ Downloads | >10% Conversion Rate
+*   📊 **Impact:** 5,000+ Views | 600+ Downloads | >10% Conversion Rate
 *   *Asymmetric Hidden Markov Modeling of Order Flow Imbalances for Microstructure-Aware Market Regime Detection*
 
 #### 📄 [Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents](https://doi.org/10.5281/zenodo.21274028)
@@ -19,6 +19,7 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 #### 📄 [From Tool Selection to Autonomous Execution](https://doi.org/10.5281/zenodo.21413144)
 *   **Zenodo Pre-print** | Published: July 17, 2026 (v2)
 *   *Process Templates, Sandboxed Code, and Modular Orchestration for Reliable LLM Agents at Scale* (DOI: [10.5281/zenodo.21413144](https://doi.org/10.5281/zenodo.21413144))
+*   📊 **Impact:** 200+ Views | 30+ Downloads | >10% Conversion Rate
 *   *(Note: v1 published as "Description Engineering Mitigates Tool-Selection Collapse in Large Language Model Agents" - DOI: [10.5281/zenodo.21274028](https://doi.org/10.5281/zenodo.21274028))*
 
 ---
@@ -26,6 +27,7 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 ### 📈 Brag.........
 *   **Open Source Contributor:** NVIDIA CUDA C++ Core Libraries (CCCL) .
 *   **Competitions:** 1st in Finanza live trading (21% return/3 days) | Top 2.5% in WorldQuant IQC (78k entrants) | DRW Crypto Challenge Top 24%.
+  
 
 
 📧 Contact: [jay85salvi@gmail.com](mailto:jay85salvi@gmail.com)
