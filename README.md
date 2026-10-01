@@ -60,4 +60,4 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 *   📈 **[TradingView](https://www.tradingview.com/u/jay85salvi/)**
 *   🐦 **[Twitter](https://x.com/salvijay1)**
 *   📊 **[Kaggle](https://www.kaggle.com/jaysalvi)**
-*   🌐 **[Interactive Portfolio](https://jay-salvi.vercel.app) **
+*   🌐 **[Interactive Portfolio](https://jay-salvi.vercel.app)**
