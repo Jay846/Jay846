@@ -26,6 +26,7 @@ Quantitative & AI researcher with specializing in low-level execution platforms,
 
 ### 📈 Brag.........
 *   **Open Source Contributor:** NVIDIA CUDA C++ Core Libraries (CCCL) .
+*   **Jane Street ASIC Reverse Engineering Challenge (2026):** Recognized among the Top/Favorite .
 *   **Competitions:** 1st in Finanza live trading (21% return/3 days) | Top 2.5% in WorldQuant IQC (78k entrants) | DRW Crypto Challenge Top 24%.
   
 
